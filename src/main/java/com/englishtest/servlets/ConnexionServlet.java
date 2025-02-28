@@ -10,7 +10,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
 import java.io.IOException;
 
-@WebServlet("/connexion")
+@WebServlet("/ConnexionServlet")
 public class ConnexionServlet extends HttpServlet {
     private final JoueurService joueurService = new JoueurService();
 

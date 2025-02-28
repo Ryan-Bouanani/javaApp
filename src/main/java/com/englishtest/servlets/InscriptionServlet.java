@@ -9,7 +9,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
 
-@WebServlet("/inscription")
+@WebServlet("/InscriptionServlet")
 public class InscriptionServlet extends HttpServlet {
     private final JoueurService joueurService = new JoueurService();
 

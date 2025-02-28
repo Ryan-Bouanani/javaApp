@@ -6,56 +6,24 @@
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d77524a3-7540-418a-a0ce-599093d0ae55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/dao/GenericDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/dao/JoueurDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/dao/PartieDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/dao/QuestionDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/dao/VerbeDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/dao/VilleDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/pojos/Joueur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/pojos/Partie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/pojos/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/pojos/Verbe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/pojos/Ville.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/services/GameService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/services/JoueurService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/services/ScoreService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/servlets/ConnexionServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/servlets/FinServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/servlets/InscriptionServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/servlets/JeuServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/utilities/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/inscription.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jeu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/englishTest/tests/TestDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/englishTest/tests/TestEntities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/englishTest/tests/TestHibernateConnection.java" afterDir="false" />
+    <list default="true" id="d77524a3-7540-418a-a0ce-599093d0ae55" name="Changes" comment="Add app pt2 to github">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/englishtest/servlets/ConnexionServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/servlets/ConnexionServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/englishtest/servlets/InscriptionServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/englishtest/servlets/InscriptionServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,6 +36,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ryan-Bouanani&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ryan-Bouanani/javaApp.git",
+    "accountId": "a77646be-d002-477c-b173-6118afb2ce0a"
+  }
+}]]></component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -93,31 +77,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.TestDAO.executor": "Run",
-    "Application.TestEntities.executor": "Run",
-    "Application.TestHibernateConnection.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Tomcat Server.Tomcat 10.1.34.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DÉVELOPPEUR/Desktop/Cours Java/EnglishTest",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "database.query.execution",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TestDAO.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestEntities.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestHibernateConnection.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.34.executor&quot;: &quot;Run&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DÉVELOPPEUR/Desktop/Cours Java/EnglishTest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;database.query.execution&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "sqlite"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DÉVELOPPEUR\Desktop\Cours Java\TestJEE\EnglishTest\src\main\resources" />
@@ -276,11 +264,45 @@
       <workItem from="1739201167045" duration="148000" />
       <workItem from="1739201389965" duration="3799000" />
       <workItem from="1739205266449" duration="6286000" />
-      <workItem from="1739518713484" duration="20267000" />
+      <workItem from="1739518713484" duration="20664000" />
+      <workItem from="1740739687187" duration="7258000" />
     </task>
+    <task id="LOCAL-00001" summary="Add app to github">
+      <option name="closed" value="true" />
+      <created>1739545020282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739545020282</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add app pt2 to github">
+      <option name="closed" value="true" />
+      <created>1739545063770</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739545063770</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add app to github" />
+    <MESSAGE value="Add app pt2 to github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add app pt2 to github" />
   </component>
 </project>
